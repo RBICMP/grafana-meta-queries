@@ -1,6 +1,6 @@
 {
   "name": "MetaQueries",
-  "id": "hjoshi1-metaqueries-datasource",
+  "id": "RBICMP-metaqueries-datasource",
   "type": "datasource",
 
   "metrics": true,
