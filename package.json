@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GoshPosh/grafana-meta-queries.git"
+    "url": "git+https://github.com/RBICMP/grafana-meta-queries.git"
   },
   "keywords": [
     "Meta Queries",
     "Moving Average",
     "Week over Week"
   ],
-  "author": "Gaurav Shah",
+  "author": "hjoshi1",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/GoshPosh/grafana-meta-queries/issues"
+    "url": "https://github.com/RBICMP/grafana-meta-queries.git/issues"
   },
   "devDependencies": {
     "debug": "~2.6.9",
@@ -37,5 +37,5 @@
   "dependencies": {
     "typescript": "^1.7.5"
   },
-  "homepage": "https://github.com/GoshPosh/grafana-meta-queries#readme"
+  "homepage": "https://github.com/RBICMP/grafana-meta-queries.git#readme"
 }
